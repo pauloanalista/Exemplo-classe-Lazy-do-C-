@@ -1,4 +1,4 @@
-# Exemplo-classe-Lazy-do-C#
+# Exemplo-classe-Lazy-do-CSharp
 Exemplo onde explico como ganhar mais performance e memória usando a classe Lazy do C#
 ```sh
 using System;
